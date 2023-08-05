@@ -1,5 +1,2 @@
-this is version 1 of my project
-i want to go to commit 2
-changed by ajay
-this is changed now
+this 
 
